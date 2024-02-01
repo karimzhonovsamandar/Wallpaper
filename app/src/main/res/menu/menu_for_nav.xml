@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_homes"
+        android:iconTint="@color/white"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/star"
+        android:icon="@drawable/ic_star"
+        android:iconTint="@color/white"
+        android:title="Restaurants" />
+
+    <item
+        android:id="@+id/update"
+        android:icon="@drawable/ic_update"
+        android:iconTint="@color/white"
+        android:title="Favourites" />
+
+    <item
+        android:id="@+id/favourite"
+        android:icon="@drawable/ic_favorite"
+        android:iconTint="@color/white"
+        android:title="Options" />
+
+</menu>
